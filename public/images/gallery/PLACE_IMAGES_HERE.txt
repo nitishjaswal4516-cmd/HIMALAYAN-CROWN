@@ -1,0 +1,15 @@
+PLACE IMAGES HERE - Gallery Images
+
+Please add the following image files to this folder:
+
+himalayan-peaks.jpg
+lush-valley.jpg
+luxury-room.jpg
+traditional-food.jpg
+snow-peaks.jpg
+mountain-landscape.jpg
+restaurant-interior.jpg
+butter-chicken.jpg
+
+All images should be high-quality JPG files (recommended size: 800x800px or larger)
+These images will be displayed in the Gallery page of the hotel website.

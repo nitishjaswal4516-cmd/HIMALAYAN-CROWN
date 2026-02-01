@@ -1,0 +1,36 @@
+# Room Images Required - Add these exact filenames:
+
+## Required Room Images (add these files to this folder):
+- classic-heritage-101.jpg
+- deluxe-oasis-102.jpg
+- executive-royal-103.jpg
+- imperial-suite-104.jpg
+- presidential-sky-105.jpg
+- classic-heritage-106.jpg
+- deluxe-oasis-107.jpg
+- executive-royal-108.jpg
+- imperial-suite-109.jpg
+- presidential-sky-110.jpg
+- classic-heritage-111.jpg
+- deluxe-oasis-112.jpg
+- executive-royal-113.jpg
+- imperial-suite-114.jpg
+- presidential-sky-115.jpg
+- classic-heritage-116.jpg
+- deluxe-oasis-117.jpg
+- executive-royal-118.jpg
+- imperial-suite-119.jpg
+- presidential-sky-120.jpg
+- classic-heritage-121.jpg
+
+## Instructions:
+1. Take photos of your hotel rooms
+2. Rename them exactly as listed above
+3. Place them in this folder: public/images/rooms/
+4. The website will automatically use these images for room displays
+
+## Image Specifications:
+- Format: JPG, PNG, or WebP
+- Size: 800x600 pixels recommended
+- Quality: High quality for best display
+- Show room interiors, beds, amenities

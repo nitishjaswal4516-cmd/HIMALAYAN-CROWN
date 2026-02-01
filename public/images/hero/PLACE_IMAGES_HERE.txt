@@ -1,0 +1,14 @@
+PLACE IMAGES HERE - Hero Section Images
+
+Please add the following image files to this folder:
+
+himalayan-background.jpg
+traditional-cuisine.jpg
+luxury-interior.jpg
+
+All images should be high-quality JPG files:
+- himalayan-background.jpg: Recommended size 2000x1200px (hero background)
+- traditional-cuisine.jpg: Recommended size 600x600px (grid image)
+- luxury-interior.jpg: Recommended size 600x600px (grid image)
+
+These images will be displayed on the homepage hero section and about section.

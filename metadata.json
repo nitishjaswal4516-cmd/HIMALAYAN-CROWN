@@ -1,0 +1,8 @@
+
+{
+  "name": "Hotel Himalayan Crown",
+  "description": "A premier luxury destination offering panoramic mountain vistas, exquisite Indian dining, and royal heritage hospitality.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
