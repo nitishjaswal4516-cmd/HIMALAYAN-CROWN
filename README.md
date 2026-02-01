@@ -28,5 +28,5 @@ View your app in AI Studio: https://ai.studio/apps/temp/1
    - Test the setup in the admin panel under "System" tab
 4. Run the app:
    `npm run dev`
-   hello my name is nikhil
+  
 
